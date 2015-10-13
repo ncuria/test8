@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><HttpDefinition>  <Address>/health/check</Address>  <Port>91</Port>  <Method>GET</Method>  <Timeout>30000</Timeout>  <ResponseContains>200</ResponseContains></HttpDefinition>
